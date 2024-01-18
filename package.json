@@ -1,0 +1,31 @@
+{
+  "name": "hw_npm",
+  "version": "1.0.0",
+  "description": "here I practice in npm usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/markovo4/npm.git"
+  },
+  "keywords": [
+    "math_functions"
+  ],
+  "author": "Volodimir (Vlad)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markovo4/npm/issues"
+  },
+  "homepage": "https://github.com/markovo4/npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prettier": "^3.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
